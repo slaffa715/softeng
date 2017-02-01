@@ -8,7 +8,8 @@ public class Hello {
 		System.out.println("Hello, Andrew");
 		System.out.println("hello professor");
 		// TODO Auto-generated method stub
-
+		// i added some stupid comment
+		// chris added comment
 	}
 
 }
